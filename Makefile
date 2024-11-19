@@ -1,2 +1,2 @@
 all:
-	g++ src/main.cpp include/*.cpp -O2 && clear 
+	g++ src/main.cpp include/*.cpp -O2 && clear && rm a.exe 
