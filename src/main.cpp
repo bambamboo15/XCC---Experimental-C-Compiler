@@ -3,10 +3,15 @@
  *        XCC - Experimental C Compiler  
  *    =====================================
  * 
- * This is a small compiler for the C language.
+ * This file is the main entry point for the program,
+ * doing CLI diagnostics and setting crucial global 
+ * variables.
  */
-#include <iostream>
+#include <cstdio>
+#include "global-properties.hpp"
 
 int main(int argc, char** argv) {
-	if (argc == 2) {} else {}
+	if (argc == 2) {} else {
+		printf("")
+	}
 }
