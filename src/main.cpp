@@ -3,9 +3,7 @@
  *        XCC - Experimental C Compiler  
  *    =====================================
  * 
- * This file is the main entry point for the program,
- * doing CLI diagnostics and setting crucial global 
- * variables.
+ * This file is the main entry point for the program.
  */
 #include <cstdio>
 #include "global-properties.hpp"
